@@ -1,4 +1,4 @@
-# 📸 AI Smart Attendance System
+ # 📸 AI Smart Attendance System
 
 An AI-powered attendance system that marks attendance **from a classroom photo or a voice recording** instead of manual roll call. Teachers create subjects and take attendance in seconds; students log in with **Face ID** and track their own attendance.
 
